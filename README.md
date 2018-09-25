@@ -1,6 +1,6 @@
 # convert-excel-to-json
 
-[![Build Status](https://api.travis-ci.org/DiegoZoracKy/convert-excel-to-json.svg)](https://travis-ci.org/DiegoZoracKy/convert-excel-to-json)
+!only change is acceptance of Buffers in place of input gile
 
 Convert Excel to JSON, mapping sheet columns to object keys.
 
