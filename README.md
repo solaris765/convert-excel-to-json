@@ -1,5 +1,6 @@
 # convert-excel-to-json
 
+!cellDates have been set to false
 !only change is acceptance of Buffers in place of input gile
 
 Convert Excel to JSON, mapping sheet columns to object keys.
